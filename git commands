@@ -5,3 +5,104 @@
 cd
 cd Desktop/pythonlearning/
 python python1.py
+
+
+
+
+
+
+cat /tmp/dsvksd
+   1  git status
+   2  bash git-init
+   3  git clone  https://github.com/HamsalekhaSuryadevara/pythonlearning.git
+   4  pwd
+   5  cd git-cmd.exe
+   6  git-init
+   7  ssh-keygen -t rsa
+   8  cd  /c/Users/hamsals/.ssh/id_rsa
+   9  cd  /c/Users/hamsals/.ssh/
+  10  ls
+  11  cd id_rsa
+  12  cat id_rsa
+  13  cat id_rsa.pub
+  14  git-init
+  15  git init
+  16  git clone https://github.com/HamsalekhaSuryadevara/pythonlearning.git
+  17  git status
+  18  cd ../
+  19  ls
+  20  git init
+  21  git clone https://github.com/HamsalekhaSuryadevara/pythonlearning.git
+  22  pwd
+  23  cd Desktop/
+  24  ls
+  25  cp -r python/python1.py
+  26  cd
+  27  cd Desktop/
+  28  cd python/
+  29  pwd
+  30  cd
+  31  cp -r
+  32  cp -r
+  33  cp -r
+  34  ls
+  35  cd pythonlearning/
+  36  cp -r
+  37  pwd
+  38  cd ../
+  39  rm -rf
+  40  rm -rf /c/Users/hamsals/pythonlearning/
+  41  cd
+  42  cd Desktop/
+  43  git init
+  44  git clone https://github.com/HamsalekhaSuryadevara/pythonlearning.git
+  45  cd pythonlearning/
+  46  git status
+  47  git add python1.py
+  48  git commit -m "my firt commit"
+  49  git push -u origin master
+  50  git status
+  51  git status
+  52  git status
+  53  git add python1.py
+  54  git commit
+  55  git status
+  56  git commit -m "my second commit'
+  57  git commit -m "my second commit"
+  58  git commit -m "second"
+  59  git push -u origin master
+  60  ls
+  61  pwd
+  62  ls
+  63  cd /usr/
+  64  ls
+  65  cd
+  66  cd Desktop/
+  67  cd pythonlearning/
+  68  git status
+  69  history
+  70  pwd
+  71  cd
+  72  cd Desktop/
+  73  ls
+  74  cd
+  75  cd Desktop/pythonlearning/
+  76  git status
+  77  git add  git commands
+  78  git add git commands
+  79  git add  git commands
+  80  git staus
+  81  git status
+  82  git commit -m "git commands"
+  83  git push -u origin master
+  84  ls
+  85  cd
+  86  cd Desktop/pythonlearning/
+  87  ls
+  88  python python1.py
+  89  git status
+  90  git commit -m "git commands"
+  91  git add  "git commands"
+  92  git commit -m "git commands"
+  93  git push -u origin master
+  94  history  >> /tmp/dsvksd
