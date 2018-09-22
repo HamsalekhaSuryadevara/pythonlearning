@@ -1,4 +1,4 @@
-print('impoerted my module')
+print('imported my module')
 
 test='Test string'
 
